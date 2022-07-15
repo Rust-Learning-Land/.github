@@ -1,3 +1,3 @@
-![rust banner](../img/rustbanner.png)
-# What is Rust Learning Land ?
+# .github
+# What is Rust Learning Land
 
