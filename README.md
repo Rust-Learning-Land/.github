@@ -1,2 +1,3 @@
-# .github
-What is Rust Learning Land ?
+![rust banner](./img/rustbanner.png)
+# What is Rust Learning Land ?
+
